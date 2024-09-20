@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>f92_jpeg_jpg.rf.fab8645b89987f7761dd7788ac8673ed.jpg</filename>
+	<path>f92_jpeg_jpg.rf.fab8645b89987f7761dd7788ac8673ed.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>418</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>47</xmin>
+			<xmax>379</xmax>
+			<ymin>25</ymin>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>
